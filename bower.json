@@ -1,0 +1,23 @@
+{
+  "name": "polymer-stream",
+  "description": "Polymer app being developed on stream",
+  "main": "index.html",
+  "keywords": [
+    "polymer",
+    "firebase",
+    "twitch",
+    "5iveprime"
+  ],
+  "authors": [
+    "5iveprimedesign"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
